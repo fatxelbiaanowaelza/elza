@@ -11,6 +11,14 @@ void main() {
         IO.println("i = " + i);
     }
     for (int i = 0; i < 10; i++) {
+        System.out.println("25");
+        System.out.println("25");
+        System.out.println("25");
+        System.out.println("25");
+        System.out.println("25");
+        System.out.println("25");
+    }
+    for (int i = 0; i < 10; i++) {
         System.out.println("Новая идея");
 
     }
